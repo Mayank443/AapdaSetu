@@ -8,7 +8,6 @@
 
 ### 🔐 User Authentication
 - **Register/Login** using **email and password**
-- **OTP verification** and **biometric authentication** for secure access
 - Firebase Authentication integrated
 
 ### 🧑 User Profile
